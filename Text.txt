@@ -1,0 +1,35 @@
+B2B
+(https://www.indotrading.com/)
+
+Indotrading adalah situs portal perdagangan yang fokus pada promosi dan pemasaran produk-produk usaha kecil dan menengah (UKM) secara online. Website ini merupakan besutan PT Inovasi Sukses Sentosa, website ini didirikan pada awal Juni 2012. Pengagas sekaligus pendiri Indotrading.com ini adalah Handy Chang. Setelah 4 bulan diluncurkan Indotrading.com memiliki rata-rata kunjungan 100 ribu pengunjung per bulan dan menghimpun lebih dari 900 UKM. Portal ini kini tercatat sebagai situs peringkat ke-452 di Indonesia dan peringkat ke-47.000 di dunia sebagai situs yang paling banyak dikunjungi pada tahun 2012 silam. Pada saat ini sudah memiliki lebih dari 80.000 suplier dan 15.000 lebih kategori barang yang ditawarkan.
+
+Indotrading.com menyediakan berbagai barang kebutuhan, mulai dari Alat Elektronik, Alat Ukur dan Survey, Konstruksi dan Properti, Mesin, Alat Industri, Alat Pelindung Diri, Alat Mekanik dan Suku Cadang, Lampu dan Aksesoris, Makanan dan Minuman, Karet dan Plastik, Alat Berat, Bahan Kimia, Perkakas, Perawatan Diri dan Kecantikan, Peralatan Rumah dan Taman, Mineral dan Logam, Kerajinan dan Kesenian, Funitur Perabot, Percetakan Pengemasan dan Pergudangan, Kesehatan dan Medis, Pertanian Perkebunan dan Peternakan, Peralatan Kantor Sekolah dan Alat tulis, Komputer, Otomotif dan Aksesoris, Pakaian dan Aksesoris, Tekstil dan Kulit, Transportasi, Telekomunikasi, Olahraga dan Hiburan.
+
+
+Landing page akan muncul pada saat kita membuat akun di Indotrading.com, kita akan diberikan halaman untuk meminta penawaran terhadapa barang yang kita butuhkan, selain itu kita di sajikan benefit apa saja yang kita terima apabila menjadi buyer di Indotrading, dan yang terakhir kita diperlihatkan perusahaan mana saja yang sudah menggunakan platform Indotrading
+
+
+Mekanisme jual beli dalam Indotrading sama halnya dengan website E-Commerce pada umumnya, namun disini pembeli dapat memberikan penawaran harga barang terhadap semua suplier atau satu suplier, setelah melakukan penawaran maka pihak suplier akan merespon penawaran yang diberikan dan pelanggan akan menerima penawaran dari pihak suplier apabila pelanggan menyetujui maka dilakukan transaksi barang dan barang akan dikirimkan
+
+Mekanisme pembayaran di Indotrading, pertama setelah menerima penawaran dari pihak suplier pelanggan akan menyetujui terlebih dahulu dari penawaran pihak suplier apabila disetujui makan pelanggan akan mendapatkan invoice dan setelahnya dilakukan pembayaran oleh pelanggan. Pembayaran dapat dilakukan dengan indotradingpay dengan berbagai channel pembayaran seperti Kartu Kredit(Master Card, VISA), Gerai Ritel (Indomaret, Alfamaret), Tranfer Bank (BCA, Mandiri, BRI, BNI, CIMB NIAGA, Permata Bank), dan E-Wallet (Gopay).
+
+
+Mekanisme pengiriman di Indotrading, sama halnya seperti website E-Commerce lainnya dalam pengiriman menggunakan jasa pihak ketiga, pembeli dapat memilih jasa pengiriman yang ingin digunakan seperti JNE, POS Indonesia, TIKI, J&T, Ninja, WAHANA, LION, dan SICEPAT.
+
+
+
+
+B2C
+(https://www.lazada.co.id/)
+
+Lazada adalah website untuk berbelanja online yang sudah tersebar di Asia Tenggara, seperti Indonesia, Malaysia, Filipina, Singapura, Thailand dan Vietnam. Diluncurkan pada tahun 2012 Lazada telah menjadi E-Commerce nomer 2 paling ramai pengunjung di Asia Tenggara, dengan total 197,8 juta kunjungan per bulan. Lazada telah membantu lebih dari 135.000 penjual lokal dan internasional, serta 3.000 brand untuk melayani 560 juta konsumen di kawasan Asia Tenggara. Kepemilikan saham mayoritas Lazada group dimiliki oleh Alibaba Group Holding Limited
+
+Lazada menyediakan berbagai macam kebutuhan, mulai dari Peralatan Elektronik (Handphone, Laptop, Kamera), Aksesoris Elektronik (Aksesoris Handphone, Aksesoris Laptop, Audio), Fashion Wanita (Fashion Muslim, Pakaian Wanita, Sepatu Wanita), Fashion Pria (Pakaian Pria, Sepatu Pria, Baju Muslim), Tas, Jam & Aksesoris (Tas & Dompet Wanita, Jam Tangan Pria, Perhiasan Wanita), Kesehatan & Kecantikan (Makeup, Perawatan Rambut, Parfum), Bayi & Makanan (Popok, Mainan, Kamar Bayi), TV & Elektronik Rumah (TV & Perangkat Video, Alat perawat Diri, Peralatan Dapur Kecil), Keperluan Rumah & gaya Hidup (Furnitur, Alat Dapur, Peralatan Mandi), Kebutuhan Rumah Tangga (Buah & Sayur, Bahan & Bumbu Masakan, Cokelat, Camilan & Permen), Olahraga & Outdoor (Baju Olahraga Pria, Olahraga Air), Otomotif(Suku Cadang, Ban & Velg Mobil). 
+
+Landing Page akan muncul apabila kita pengguna baru lazada, didalam landing page kita diberikan informasi tentang layanan pelanggan, apa saja yang diberikan lazada kepada pelanggannya dapat kita ketahui dengan menekan pilihan yang disediakan, berikutnya ditampilkan informasi umum tentang lazada, dimulai dari Tentang lazada, karir di lazada, Syarat & Ketentuan, dan masih banyak lagi, selain itu kita diarahkan untuk mendownload aplikasi Lazada di perangkat smartphone kita.
+
+Mekanisme jual beli pada Lazada, sama halnya pada e-commerce umunya, Penjual yang memiliki toko memajang barang dagangan dan memberikan harga untuk setiap barangnya. Pembeli dapat memilih barang apa yang sedang dibutuhkan dan lalu dapat memasukkan kedalam keranjang belanjaan atau langsung membelinya. Setelah itu pembeli dapat melakukan checout barang, pada halaman checkout barang pembeli diharuskan memasukan informasi pengiriman yang terdiri dari nama lengkap, alamat, nomor telepon, dan lain sebagainya, selain itu pembeli juga harus memilih metode pemabayaran yang ingin digunakan, setelahnya pembeli dapat melakukan pembuatan pesanan.
+
+Mekanisme pembayaran pada Lazada, pada halaman checkout barang pembeli diminta untuk memilih metode pembayaran yang ingin digunakan, untuk metode pembayaran sendiri yang dapat digunakan adalah Kartu Kredit (Master Card dan VISA), Transfer Bank (BNI, Mandiri, dan BCA), Gerai Ritel (Alfamart dan Indomaret), dan Bayar di tempat atau biasa dikenal dengan Cash On Delivery (COD).
+
+Mekanisme pengiriman di Lazada, barang yang telah dibeli dapat dikirimkan melalui pihak ketiga yang dipilih langsung oleh pembeli seperti, Lazada Logistics, JNE, Ninja Express, Gosend, Sicepat, dan Grab Express 
